@@ -107,7 +107,5 @@ A API é baseada na arquitetura MVC (Model-View-Controller):
 
 ## Contato
 
-## License This software is licensed under the terms of the [MIT]
-
 ⌨️ Mirella Dinatto-
 [Github](https://github.com/midinatto)
