@@ -113,5 +113,5 @@ Se precisar de suporte ou quiser contribuir para o projeto, sinta-se à vontade 
 
 ## License This software is licensed under the terms of the [MIT]
 
-⌨️ FelipeAguiar -
-[Github](https://github.com/felipeAguiarCode)
+⌨️ Mirella Dinatto-
+[Github](https://github.com/midinatto)
